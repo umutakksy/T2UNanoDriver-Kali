@@ -67,5 +67,3 @@ Then restart again:
 ```bash
 reboot
 ```
-
-By following these steps, you can successfully use the **TP-Link T2U Nano** adapter on **Kali Linux**. 🚀
